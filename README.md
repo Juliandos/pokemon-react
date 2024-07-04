@@ -14,8 +14,8 @@ Este proyecto es una aplicación web dedicada a los fanáticos de Pokémon. Aqu�
 
 ## Tecnologías Utilizadas
 
-- **HTML**
-- **CSS**
+- **REACT**
+- **MATERIAL UI**
 - **JavaScript**
 - **API de Pokémon**: Utilizamos [PokeAPI](https://pokeapi.co/api/v2/pokemon/) para obtener datos en tiempo real.
 
@@ -33,7 +33,15 @@ Sigue estos pasos para configurar el proyecto en tu máquina local:
     cd tu-repositorio
     ```
 
-3. Ejecuta el archivo index.html en un servidor como live server
+3. Instala las dependencias:
+   ```sh
+   npm install
+   ```
+4. Inicia el proyecto:
+    ```sh
+    npm start
+    ```
+   
 
 ## Contribuciones
 
