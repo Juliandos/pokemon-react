@@ -25,7 +25,7 @@ function App() {
   const [auto, setauto] = useState(false)
 
   useEffect(() => {
-    document.title = "React Material UI - Home";
+    document.title = "Pokemon React App";
   });
   return (
     <BrowserRouter>
