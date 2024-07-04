@@ -1,0 +1,22 @@
+@font-face{
+  font-family: pokemon-solid;
+  src: url(Pokemon-Solid.ttf);
+}
+
+body {
+  margin: 0;
+  letter-spacing: 2px;
+  font-family: pokemon-solid;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  overflow-x: hidden;
+}
+
+code {
+  font-family: pokemon-solid;
+}
+
+html {
+  font-family: pokemon-solid;
+  /* letter-spacing: 1px; */
+}
