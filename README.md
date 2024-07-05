@@ -1,4 +1,4 @@
-# Mi Proyecto Pokémon  ![Pokebola](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poke-ball.png)
+# Mi Proyecto Pokémon React  ![Pokebola](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poke-ball.png)
 
 
 
@@ -41,7 +41,19 @@ Sigue estos pasos para configurar el proyecto en tu máquina local:
     ```sh
     npm start
     ```
-   
+## Imágenes del Proyecto
+
+|                                  |
+|----------------------------------|
+| ![Imagen 1](https://github.com/Juliandos/pokemon-react/blob/main/imagenes/2024-07-05_094938.jpg)|
+
+|                                  |                                 |
+|----------------------------------|---------------------------------|
+| ![Imagen 2](https://github.com/Juliandos/pokemon-react/blob/main/imagenes/2024-07-05_095529.jpg) | ![Imagen 2](https://github.com/Juliandos/pokemon-react/blob/main/imagenes/2024-07-05_095612.jpg) |
+
+|                                  |                                 |
+|----------------------------------|---------------------------------|
+| ![Imagen 3](https://github.com/Juliandos/pokemon-react/blob/main/imagenes/2024-07-05_095633.jpg)| ![Imagen 5](https://github.com/Juliandos/pokemon-react/blob/main/imagenes/2024-07-05_100233.jpg)|
 
 ## Contribuciones
 
