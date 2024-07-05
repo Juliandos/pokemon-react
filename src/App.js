@@ -45,7 +45,7 @@ function App() {
                     <img src={pokemon1} alt=""/>
                   </a>
                   <TextoSlide>
-                    <p>15% descuento en productos Apple</p>
+                    <p>Pokemon React</p>
                   </TextoSlide>
                 </Slide>
                 <Slide>
@@ -53,7 +53,7 @@ function App() {
                     <img src={pokemon2} alt=""/>
                   </a>
                   <TextoSlide>
-                    <p>15% descuento en productos Apple</p>
+                    <p>Pokemon React</p>
                   </TextoSlide>
                 </Slide>
                 <Slide>
@@ -61,7 +61,7 @@ function App() {
                     <img src={pokemon3} alt=""/>
                   </a>
                   <TextoSlide>
-                    <p>15% descuento en productos Apple</p>
+                    <p>Pokemon React</p>
                   </TextoSlide>
                 </Slide>
                 <Slide>
@@ -69,7 +69,7 @@ function App() {
                     <img src={pokemon4} alt=""/>
                   </a>
                   <TextoSlide>
-                    <p>15% descuento en productos Apple</p>
+                    <p>Pokemon React</p>
                   </TextoSlide>
                 </Slide>
               </Slideshow>

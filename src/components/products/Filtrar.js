@@ -59,7 +59,7 @@ export default function Filtrar(){
 
     return(
         <ContainerPokemons>
-            <h1>Filtrar</h1>
+            <h1 style={{ margin: "auto", display: "flex", justifyContent: "center" }}>Filtrar</h1>
             <div style={{width: "98vw", overflow: "auto", display: "flex"}}>
                 {filtros.length === 0 ? (
                     <h3>Cargando...</h3>
